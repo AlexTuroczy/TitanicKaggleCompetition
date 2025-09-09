@@ -1,0 +1,1 @@
+titanic.ipynb contains all of the experimental models for the Kaggle competition

@@ -1,0 +1,6 @@
+name: titanic
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+prefix: /Users/alexanderturoczy/miniforge3/envs/titanic
