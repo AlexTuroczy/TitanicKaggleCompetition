@@ -3,4 +3,7 @@ channels:
   - conda-forge
 dependencies:
   - numpy
+  - pandas
+  - matplotlib
+  - ipykernel
 prefix: /Users/alexanderturoczy/miniforge3/envs/titanic
