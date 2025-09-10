@@ -2,8 +2,11 @@ name: titanic
 channels:
   - conda-forge
 dependencies:
-  - numpy
-  - pandas
-  - matplotlib
-  - ipykernel
-prefix: /Users/alexanderturoczy/miniforge3/envs/titanic
+  - conda==25.3.1
+  - kaggle
+  - mamba==2.1.1
+  - pip
+  - python=3.12
+  - scikit-learn
+
+prefix: "/Users/alexanderturoczy/miniforge3/envs/titanic"
